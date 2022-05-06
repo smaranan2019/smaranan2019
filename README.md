@@ -21,10 +21,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/francesseverino/);
 - 📝 [Resume](https://smaranan2019.github.io/francesseverino/Resume.pdf).
 
-</br
+</br>
 
 ```javascript
-const thai = {
+const filippino = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [React, Vue, Node, Bootstrap, Styled-Components, Flask, Docker, MongoDB, mySQL, Firebase, Netlify, Heroku, AWS],
