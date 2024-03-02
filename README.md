@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am an Analyst at JP Morgan as part of their Software Engineer Program. <img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="25px"> I am an aspiring cloud engineer, software artchitect and technical writer. Hit me up as I love to teach and learn from others. On the side I love to dive, swim, cook, read, tinker and travel.
+I am an Analyst at JP Morgan as part of their Software Engineer Program. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4aWdlYXE4dDVienVlbThicWRpamw0OGlkdThsZno5azdkbHppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnYl5uambgXwsQ8DEs/giphy.gif" width="25px"> I am an aspiring cloud engineer, software artchitect and technical writer. Hit me up as I love to teach and learn from others. On the side I love to dive, swim, cook, read, tinker and travel.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
   
