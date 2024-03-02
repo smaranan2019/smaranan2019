@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💬 Contact me, I am happy to learn from you;
 - 📝 I try to write articles on [medium](https://medium.com/@smaranan.2019);
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/francesseverino/);
-- 📝 [Resume](https://smaranan2019.github.io/francesseverino/Resume.pdf).
+- 📝 [Resume](https://drive.google.com/file/d/13N2jP4ivPERNvSEklw2CMbOAnXU7RRpN/view?usp=sharing).
 
 </br>
 
