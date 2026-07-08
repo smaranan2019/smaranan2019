@@ -42,9 +42,9 @@ const frances = {
 
 <br>
 
-## 📌 Featured Projects
+## 📌 Featured Projects (wip come back another day!) 
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <a href="#"><b>Project One</b></a><br>
@@ -61,7 +61,7 @@ const frances = {
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
